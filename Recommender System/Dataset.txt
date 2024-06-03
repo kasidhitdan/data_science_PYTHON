@@ -1,0 +1,5 @@
+The Movies Dataset
+
+https://images.unsplash.com/photo-1579546929512-6b1acf044d9d
+
+This dataset contains metadata for over 45,000 movies listed in The Movie Database (TMDb). This dataset contains information such as movie title, cast, crew, budget, revenue, release dates, languages, and much more. It also includes data on user ratings from TMDb.
